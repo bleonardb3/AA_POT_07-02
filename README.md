@@ -1,1 +1,1 @@
-# AA_POT_07-02
+# Hands-on Introduction to Watson Studio
