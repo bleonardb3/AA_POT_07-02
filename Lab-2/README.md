@@ -25,37 +25,4 @@ Upon completing the lab, you will know how to:
 
 ## Instructions:
 
-### Step 1.  Click on the hamburger icon, then `Projects`, and then `View All Projects`
-> <img src="https://github.com/bleonardb3/DS_POT_02-07/blob/master/images/Navigation%20Selection.png"/>
-> <img src="https://github.com/bleonardb3/DS_POT_02-07/blob/master/images/ViewAllProjects.png"/>
-
-
-### Step 2.  Select the project you created at the beginning of this proof of technology.
-
-> <img src="https://github.com/bleonardb3/ML-POT/blob/master/Lab-1/images/Select%20Watson%20Studio%20Labs.png"/>
-
-### Step 3.  We are now going to create a new notebook in our project. This notebook will be created from a url that points to the Heart Disease notebook in the github repository. Click the `Add to project` link and then the `Notebook` link as shown below. 
-
-> <img src="https://github.com/bleonardb3/Think2019/blob/master/Lab-1/images/AddToProject.png"/>
-
-### Step 4.  Create the notebook.
-
-
-1. Click the `From URL` tab under `New Notebook`.
-1. Give the notebook a name in the `Name` field, for example `Heart Disease` and optionally you can give it a description.
-1. In the Notebook URL field, use `https://github.com/bleonardb3/AA_03-26/blob/master/Lab-2/Heart%20Disease.ipynb`.
-1. ###  WARNING MAKE SURE TO CHANGE THE ENVIRONMENT TO THE ONE WITH DEFAULT SPARK `Default Spark Python 3.5 XS environment`
-
-> <img src="https://github.com/bleonardb3/AA_03-26/blob/master/Lab-2/images/NewNotebook.png"/>
-
-### Step 5.  Please make sure the notebook has `Python 3.5 with Spark` in top right corner. 
-
-> <img src="https://github.com/bleonardb3/ML_POT_03-27/blob/master/Lab-2/images/PythonWithSpark.png"/>
-
-### Step 6. Follow the instructions in the notebook. 
-
-
-
-
-
-
+Step 1. Please click on the link below to download the instructions to your machine.
